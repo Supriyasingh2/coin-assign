@@ -38,6 +38,11 @@ Fullstack
 ## Video Walkthrough of the project
 https://github.com/Supriyasingh2/coin-assign/assets/102248292/bd2a5ce4-9c7a-496a-87a5-cba3215530e2
 
+## Features 
+- **User Display & Add:** Fetches and displays user info, with an option to add users to the database.
+- **Access User Posts:** Allows users to view their posts or add new ones.
+- **Post Management:** Displays user posts with options for bulk addition and Excel download.
+
 ## Installation & Getting Started
 1. Clone the repository:
    ```bash
@@ -61,10 +66,16 @@ https://github.com/Supriyasingh2/coin-assign/assets/102248292/bd2a5ce4-9c7a-496a
      npm start
 11. Access the application at `http://localhost:8080`.
 
+## Usage 
+- Visit the application's URL.
+- Click the "ADD" button to add new users to the database.
+- For existing users, click the "OPEN" button to view their posts.
+- Use the "Bulk Add" button to add multiple posts at once, or use the "Download in Excel" button to download posts in Excel format.
 
 
 ![Screenshot 2024-04-10 052544](https://github.com/Supriyasingh2/coin-assign/assets/102248292/bb699ab7-0701-479c-8727-aa2af84dbfde)
 
+![Screenshot 2024-04-10 053927](https://github.com/Supriyasingh2/coin-assign/assets/102248292/ae11efa1-d702-4300-95b5-255ee866362d)
 
 
 ## Tech Stack
